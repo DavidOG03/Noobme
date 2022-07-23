@@ -1,0 +1,229 @@
+<! DOCTYPE html >
+<head >
+<style>
+    *{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+body{
+    background-color:lightgrey;
+    font-size :16px;
+    font-family:Helvetica ;
+    margin:10px;
+    }
+    header{
+    background-color:rgb(20,20,20);
+    border:1px solid lightgrey;
+    border-radius:10px;
+    padding:5px;
+    margin:5px;
+    text-align:center;
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    }
+.header{
+    background-color:rgb(20,20,20);
+    border:1px solid lightgrey;
+    border-radius:10px;
+    padding:5px;
+    margin:5px;
+    text-align:center;
+    color:white;
+    display:flex;
+    }
+    .main{
+    background-color:rgb(20,20,20);
+    border:1px solid lightgrey;
+    border-radius:10px;
+    padding:5px;
+    margin:5px;
+    margin-bottom:10px;
+    color:white;
+    }
+.main1{
+    background-color:rgb(20,20,20);
+    border:1px solid grey;
+    border-radius:10px;
+    padding:5px;
+    margin:5px;
+    text-align:justify;
+    color:white;
+width:45%;
+    }
+    .main2{
+    background-color:rgb(20,20,20) ;
+    border:1px solid grey;
+    border-radius:10px;
+        padding:5px;
+    margin:5px;
+    text-align:justify;
+    color:white;
+    width:45%;
+    }
+        .main3{
+    background-color:rgb(20,20,20) ;
+    border:1px solid lightgrey;
+    border-radius:10px;
+    padding:5px;
+    margin:5px;
+    margin-bottom:15px;
+    text-align:center;
+    color:white;
+    clear:both;
+    color:white;
+width:95%;
+    }
+    .main4{
+    background-color:rgb(20,20,20);
+    border:1px solid grey;
+    border-radius:10px;
+        padding:5px;
+    margin:5px;
+    text-align:justify;
+    color:white;
+width:45%;
+    }
+.sideright {
+    background-color:rgb(20,20,20);
+    margin-right:5px;
+    margin-bottom:5px;
+    border:1px solid grey;
+    border-radius:10px;
+    float:right;
+    text-align:left;
+    clear:right;
+    color:white;
+    width:50%;
+    padding:10px;
+    }
+    .sideright2 {
+    background-color:rgb(20,20,20);
+    margin-right:5px;
+    margin-bottom:5px;
+padding:5px;
+    border:1px solid grey;
+    border-radius:10px;
+    float:right;
+    text-align:left;
+    clear:right;
+    color:white;
+width:50%;
+    }
+ul li{
+    text-decoration:none;
+    list-style:none;
+}
+    h2{
+        text-align:center;
+        text-decoration:none;
+        justify-content:center;
+        align-items:center;
+        }
+    .footer{
+    background-color:rgb(20,20,20);
+    color:white;
+    border:1px solid lightgrey;
+    border-radius:10px;
+    padding:10px;
+       margin:10px;
+    text-align:center;
+    clear:both;
+    text-decoration:none;
+            }
+      .footer ul{
+    padding:5px;
+    list-style-type:none;
+    color:white;  
+    margin:5px;
+    text-align:center;
+display:flex;
+justify-content:space-between;
+align-items:stretch;
+    }
+    .footer ul li {
+display:inline;
+    }
+    .footer ul li a{
+    text-decoration:none;
+    padding:5px;
+    color:white;
+    }
+    .footer ul li a:hover{
+    background-color:white;
+    color:navy;
+        }
+</style>
+</head>
+<body>
+<header>
+<h1>MyMovies.com</h1>
+</header>
+<div class="header" >
+<h2>American Series</h2>
+</div>
+<div class="sideright">
+<h2>Casts and Characters for Legend of the seeker </h2>
+<ul>
+<li>Richard Cypher/Seeker </li>
+<li>Kahlan Amnell/Confessor </li>
+<li>Zeddicus Zul Zorander/Wizard of the first order</li>
+<li>Darken Rahl</li>
+<li>Denna/Mord-Sith e.t.c</li>
+</div>
+<div class="sideright">
+<h2>Casts and Characters for Merlin </h2>
+<ul>
+<li>Merlin </li>
+<li>Arthur Pendragon </li>
+<li>Guinevere</li>
+<li>Morgan le Fay/Morgana</li>
+<li>Gaius </li>
+<li>Uther Pendragon</li>
+<li>Cenred e.t.c</li>
+</div> 
+<div class="main1" >
+<h2>THE LEGEND OF THE SEEKER </h1>
+<p> The legend of the seeker is a drama about a man named <strong>Richard Cypher</strong> whose mission and duty was to save the world from a dark ruler's hand- <strong>Darken Rahl</strong>- in order to bring peace and harmony back to the midlands and the outlands. </p>
+</div>
+<div class="main2" >
+<h2> MERLIN </h2>
+<p>This drama series was also being made during the making of the legend of the seeker. <strong>Merlin</strong>, a young and powerful warlock, keeps his magical powers hidden as it is banned in <strong>Camelot</strong>. He befriends <strong>King Arthur</strong> and together they experience many adventures on their quest to save <strong>Albion</strong>.
+</div>
+<div class="main3" >
+<h1>KOREAN MOVIES</h1>
+</div>
+<div class="sideright2">
+<h2>Cast and Characters</h2>
+<ul>
+<li>Jumong</li>
+<li>So-seo-no/Inrang</li>
+<li>Lady Ye so ya</li>
+<li>Lady Yeoh-wa</li>
+<li>Prince Dae-so</li>
+<li>Prince Young-po</li>
+<li>King Geum-wa</li>
+<li>General Hae-mo-su</li>
+<li>Mo-pal-mo</li>
+<li>Sa-yong</li>and so on... 
+</ul>
+</div>
+<div class="main4" >
+<h2>JUMONG</h2>
+<p>This drama series is about a man-<strong>Jumong</strong>-who contributed to the establishment of the kukuryeo/goguryeo dynasty. He is however faced by oppositions rooting from his family. </p>
+</div>
+<div class="footer">
+<ul>
+<li><a href="Homepage" >Home</a></li>
+<li><a href ="Contact" >Contact us</a></li>
+<li><a href ="Link" >More on LOTS</a></li>
+<li><a href ="Link" >More on Merlin</a></li>
+</ul>
+</div>
+</body>
+</html >
+
+
+Mm
